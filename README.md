@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
