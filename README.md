@@ -35,6 +35,7 @@ Solving LeetCode problems in Java
 | [0171-excel-sheet-column-number](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Solving LeetCode problems in Java
 | [0160-intersection-of-two-linked-lists](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@ Solving LeetCode problems in Java
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
