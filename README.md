@@ -36,6 +36,7 @@ Solving LeetCode problems in Java
 | [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Solving LeetCode problems in Java
 | [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,8 +65,13 @@ Solving LeetCode problems in Java
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
