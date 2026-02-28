@@ -32,6 +32,7 @@ Solving LeetCode problems in Java
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
@@ -56,6 +57,7 @@ Solving LeetCode problems in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0242-valid-anagram) |
@@ -69,6 +71,7 @@ Solving LeetCode problems in Java
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
 ## Counting
@@ -85,6 +88,7 @@ Solving LeetCode problems in Java
 | ------- |
 | [0001-two-sum](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
