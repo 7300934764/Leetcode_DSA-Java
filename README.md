@@ -29,6 +29,7 @@ Solving LeetCode problems in Java
 | [0168-excel-sheet-column-title](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Solving LeetCode problems in Java
 | [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -93,4 +95,8 @@ Solving LeetCode problems in Java
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
