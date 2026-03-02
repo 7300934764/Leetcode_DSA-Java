@@ -83,6 +83,7 @@ Solving LeetCode problems in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Array
@@ -99,4 +100,8 @@ Solving LeetCode problems in Java
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0412-fizz-buzz) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
