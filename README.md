@@ -28,6 +28,7 @@ Solving LeetCode problems in Java
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0171-excel-sheet-column-number) |
+| [0279-perfect-squares](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0412-fizz-buzz) |
 ## String
@@ -108,5 +109,10 @@ Solving LeetCode problems in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0338-counting-bits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
