@@ -34,6 +34,7 @@ Solving LeetCode problems in Java
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0171-excel-sheet-column-number) |
@@ -60,6 +61,7 @@ Solving LeetCode problems in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0205-isomorphic-strings) |
@@ -115,4 +117,8 @@ Solving LeetCode problems in Java
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0279-perfect-squares) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
