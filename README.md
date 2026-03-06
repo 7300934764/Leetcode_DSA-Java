@@ -45,6 +45,7 @@ Solving LeetCode problems in Java
 | [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0412-fizz-buzz) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Solving LeetCode problems in Java
 | [0290-word-pattern](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0389-find-the-difference) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Solving LeetCode problems in Java
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/0383-ransom-note) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/7300934764/Leetcode_DSA-Java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
